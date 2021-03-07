@@ -1,0 +1,16 @@
+.single-line {
+  white-space: nowrap;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.hidden {
+  height: 0px;
+  overflow: hidden;
+}
+
+.v-image__image--cover {
+  background-size: auto 100% !important;
+}
